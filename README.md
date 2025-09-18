@@ -14,9 +14,9 @@ Click the Roll Dice button to roll a dice, see the animation, and track the hist
   Built using only vanilla HTML, CSS, and JavaScript
 
 # Project Structure
- index.html   # Main HTML file
- style.css    # Styling for the simulator
- app.js       # Dice roll logic and animations
+ index.html   
+ style.css    
+ app.js      
 
 
 
